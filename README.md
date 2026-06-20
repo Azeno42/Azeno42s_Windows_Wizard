@@ -1,3 +1,5 @@
+<img width="2160" height="1440" alt="winwizbanner" src="https://github.com/user-attachments/assets/8f5b3702-4349-4947-b029-3495a3ef65c0" />
+
 # Azeno42 Tech's Windows Wizard (v0.1-Alpha)
 
 A lightweight, powerful, and interactive PowerShell-based post-install tool designed to debloat Windows and install essential software seamlessly. Built for power users who want maximum performance and zero bloat right after a fresh Windows installation.
